@@ -1,20 +1,20 @@
 numpy-1-19-4:
-  debian:
+  ubuntu:
     pip:
       packages: [numpy==1.19.4]   
 scipy-1-5-4:
-  debian:
+  ubuntu:
     pip:
       packages: [scipy==1.5.4]
 matplotlib-3-2-1:
-  debian:
+  ubuntu:
     pip:
       packages: [matplotlib==3.2.1]
 shapely-1-7-1:
-  debian:
+  ubuntu:
     pip:
       packages: [Shapely==1.7.1]
 anytree-2-8-0:
-  debian:
+  ubuntu:
     pip:
       packages: [anytree==2.8.0]
